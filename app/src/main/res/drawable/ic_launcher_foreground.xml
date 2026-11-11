@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Escudo do ConfereAí (mesma identidade visual do logo) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0D4D6B"
+        android:pathData="M34.15,35.74 L54,30 L73.85,35.74 L73.85,56.37 L54,78 L34.15,56.37 Z" />
+    <path
+        android:fillColor="#14A38B"
+        android:pathData="M37.34,38.3 L54,33.55 L70.66,38.3 L70.66,56.02 L54,74.6 L37.34,56.02 Z" />
+    <path
+        android:pathData="M43.5,54 L51,61.5 L65.5,46"
+        android:strokeWidth="5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
