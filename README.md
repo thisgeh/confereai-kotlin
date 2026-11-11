@@ -122,7 +122,7 @@ flowchart TD
 |---|---|
 | **1. Criação de um registro** (consulta salva + mensagem "Consulta salva") | ![](docs/prints/10_registro_criado.png) |
 | **2. Ação adicional** (consulta marcada como confiável ⭐ / filtro "Confiáveis") | ![](docs/prints/11_acao_confiavel.png) |
-| **3. Permanência após reabrir** (app fechado pelo multitarefa e aberto de novo: a lista continua igual) | ![](docs/prints/12_apos_reabrir.png) ![](docs/prints/12_1_apos_reabrir.png) |
+| **3. Permanência após reabrir** (app fechado pelo multitarefa e aberto de novo: a lista continua igual) | ![](docs/prints/12_1_apos_reabrir.png) | ![](docs/prints/12_apos_reabrir.png) |
 
 ---
 
